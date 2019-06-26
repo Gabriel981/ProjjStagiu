@@ -1,28 +1,19 @@
 package tests;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 import org.testng.annotations.*;
-import pages.LoginToAutomationAccount;
+import pages.loginToAccount;
+import pages.signUp;
 
-public class TestsOnLogin {
+public class TestsOnRegister_Login {
     WebDriver driver;
+    signUp signUpclass;
+    loginToAccount account;
 
-    @FindBy(css = "a[class='login'][rel='nofollow']")
-    WebElement signInButton;
-
-    public TestsOnLogin(WebDriver driver){
-        this.driver=driver;
-        PageFactory.initElements(driver, this);
-    }
-
-    LoginToAutomationAccount account;
-
-    @BeforeTest
+    @BeforeClass
     public void setUp() {
         System.setProperty("webdriver.chrome.driver", "C:\\Users\\Gabriel\\Downloads\\chromedriver.exe");
         driver = new ChromeDriver();
@@ -30,11 +21,18 @@ public class TestsOnLogin {
     }
 
     @Test
+    public void testOnSignUpFunctionality(){
+        signUpclass = new signUp(driver);
+        signUpclass.initializationSignInBtn("testng13@test.nn","Georgica","Mirel","mirelgeorgel","Str.Florilor","Iasi","Romania","30032","0575757755");
+        System.out.println("Test complete! - For Register");
+    }
+
+    @Test
     public void test_HomePageLogin() {
         //Locate Sign-In button and press it to start the adventure
-        signInButton.click();
+        driver.findElement(By.cssSelector("a[class='login'][rel='nofollow']")).click();
         //completion for object -account-
-        account = new LoginToAutomationAccount(driver);
+        account = new loginToAccount(driver);
         //login to website account
         account.loginAutomationPage("gabriel.noki9@gmail.com", "capptain3");
         //verify if it is logged in
@@ -43,10 +41,11 @@ public class TestsOnLogin {
 
     }
 
-    @AfterTest
-    public void downPage(){
+    @AfterClass
+    public void tearDown(){
         driver.quit();
     }
+
 
 
 }

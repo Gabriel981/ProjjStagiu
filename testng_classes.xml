@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Test-class Suite" parallel="classes" thread-count="2">
+    <test name="Test-class test">
+        <classes>
+            <class name="tests.TestOnCheckout"/>
+            <class name="tests.TestsOnAccount_Functionalities"/>
+            <class name="tests.TestsOnCart"/>
+            <class name="tests.TestsOnContactUs"/>
+            <class name="tests.TestsOnRegister_Login"/>
+            <class name="tests.TestsOnSearchBar"/>
+        </classes>
+    </test>
+</suite>
+
+
+        <!--<suite name="mySuite" parallel="tests" thread-count="6">-->
+
+        <!--    <test name="myTest1">-->
+        <!--        <classes>-->
+        <!--            <class name="tests.TestsOnLogin"/>-->
+        <!--        </classes>-->
+        <!--    </test>-->
+
+        <!--    <test name="myTest2">-->
+        <!--        <classes>-->
+        <!--            <class name="tests.TestsOnSearchBar"/>-->
+        <!--        </classes>-->
+        <!--    </test>-->
+
+        <!--    <test name="myTest3">-->
+        <!--        <classes>-->
+        <!--            <class name="tests.TestsOnContactUs"/>-->
+        <!--        </classes>-->
+        <!--    </test>-->
+
+        <!--    <test name="myTest4">-->
+        <!--        <classes>-->
+        <!--            <class name="tests.TestsOnCart"/>-->
+        <!--        </classes>-->
+        <!--    </test>-->
+
+
+        <!--    <test name="myTest5">-->
+        <!--        <classes>-->
+        <!--            <class name="tests.TestOnCheckout"/>-->
+        <!--        </classes>-->
+        <!--    </test>-->
+
+        <!--&lt;!&ndash;In construction&ndash;&gt;-->
+        <!--&lt;!&ndash;    <test name="myTest6">&ndash;&gt;-->
+        <!--&lt;!&ndash;        <classes>&ndash;&gt;-->
+        <!--&lt;!&ndash;            <class name="tests.TestsOnBuyProcessEmag"></class>&ndash;&gt;-->
+        <!--&lt;!&ndash;        </classes>&ndash;&gt;-->
+        <!--&lt;!&ndash;    </test>&ndash;&gt;-->
+
+        <!--</suite>-->
+
+
+
+

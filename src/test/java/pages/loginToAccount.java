@@ -5,7 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class LoginToAutomationAccount {
+public class loginToAccount {
     WebDriver driver;
     @FindBy(id = "email")
     WebElement autoUserName;
@@ -16,7 +16,7 @@ public class LoginToAutomationAccount {
     @FindBy(id = "SubmitLogin")
     WebElement autoLogin;
 
-    public LoginToAutomationAccount(WebDriver driver) {
+    public loginToAccount(WebDriver driver) {
         this.driver = driver;
         PageFactory.initElements(driver, this);
     }

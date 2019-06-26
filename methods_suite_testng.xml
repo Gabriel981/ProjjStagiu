@@ -1,0 +1,39 @@
+<suite name="mySuite" parallel="tests" thread-count="6">
+
+    <test name="myTest1">
+        <classes>
+            <class name="tests_methods.TestsOnSearchBar"/>
+        </classes>
+    </test>
+
+    <test name="myTest2">
+        <classes>
+            <class name="tests_methods.TestsOnRegister_Login"/>
+        </classes>
+    </test>
+
+    <test name="myTest3">
+        <classes>
+            <class name="tests_methods.TestsOnContactUs"/>
+        </classes>
+    </test>
+
+    <test name="myTest4">
+        <classes>
+            <class name="tests_methods.TestsOnCart"/>
+        </classes>
+    </test>
+
+
+    <test name="myTest5">
+        <classes>
+            <class name="tests_methods.TestsOnAccount_Functionalities"/>
+        </classes>
+    </test>
+
+    <test name="myTest6">
+        <classes>
+            <class name="tests_methods.TestOnCheckout"/>
+        </classes>
+    </test>
+</suite>

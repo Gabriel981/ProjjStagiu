@@ -1,0 +1,38 @@
+<suite name="Test-class Suite" parallel="tests" thread-count="2">
+    <test name="Test-class test 1">
+        <parameter name="test-name" value="test-method One" />
+        <classes>
+            <class name="tests_methods.TestOnCheckout" />
+        </classes>
+    </test>
+    <test name="Test-class test 2">
+        <parameter name="test-name" value="test-method One" />
+        <classes>
+            <class name="tests_methods.TestsOnAccount_Functionalities" />
+        </classes>
+    </test>
+    <test name="Test-class test 3">
+        <parameter name="test-name" value="test-method One" />
+        <classes>
+            <class name="tests_methods.TestsOnCart" />
+        </classes>
+    </test>
+    <test name="Test-class test 4">
+        <parameter name="test-name" value="test-method One" />
+        <classes>
+            <class name="tests_methods.TestsOnContactUs" />
+        </classes>
+    </test>
+    <test name="Test-class test 5">
+        <parameter name="test-name" value="test-method One" />
+        <classes>
+            <class name="tests_methods.TestsOnRegister_Login" />
+        </classes>
+    </test>
+    <test name="Test-class test 6">
+        <parameter name="test-name" value="test-method One" />
+        <classes>
+            <class name="tests_methods.TestsOnSearchBar" />
+        </classes>
+    </test>
+</suite>

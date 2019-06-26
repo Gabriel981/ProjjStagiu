@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bae6304-c3ce-49e3-8a59-f6001001ea7f" name="Default Changelist" comment="problemaTeste">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_io_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_io_2_6_javadoc.xml" afterDir="false" />
+    <list default="true" id="0bae6304-c3ce-49e3-8a59-f6001001ea7f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods_suite_testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/buyProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/checkoutProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/contactPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/searchBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/signUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/viewOrderAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/phptravels_pages/homePageBooking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/phptravels_pages/homePageLanguageCurrency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/phptravels_pages/signUpPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/phptravels_tests/test_On_littleFunctionalities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/phptravels_tests/tests_On_Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/TestOnCheckout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/TestsOnAccount_Functionalities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/TestsOnCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/TestsOnContactUs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/TestsOnSearchBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests_methods/TestOnCheckout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests_methods/TestsOnAccount_Functionalities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests_methods/TestsOnCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests_methods/TestsOnContactUs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests_methods/TestsOnRegister_Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests_methods/TestsOnSearchBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests_suite/TestOnCheckout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests_suite/TestsOnAccount_Functionalities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests_suite/TestsOnCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests_suite/TestsOnContactUs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests_suite/TestsOnRegister_Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests_suite/TestsOnSearchBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/ProjjStagiu.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/buyProcess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/checkoutProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/contactPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/loginToAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/searchBar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/signUp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/viewOrderAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/phptravels_pages/homePageBooking$flightBooking.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/phptravels_pages/homePageBooking$hotelBooking.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/phptravels_pages/homePageBooking.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/phptravels_pages/homePageLanguageCurrency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/phptravels_pages/signUpPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/phptravels_tests/test_On_littleFunctionalities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/phptravels_tests/tests_On_Booking.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/TestOnCheckout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/TestsOnAccount_Functionalities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/TestsOnCart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/TestsOnContactUs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/TestsOnRegister_Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/TestsOnSearchBar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests_methods/TestOnCheckout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests_methods/TestsOnAccount_Functionalities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests_methods/TestsOnCart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests_methods/TestsOnContactUs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests_methods/TestsOnRegister_Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests_methods/TestsOnSearchBar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests_suite/TestOnCheckout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests_suite/TestsOnAccount_Functionalities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests_suite/TestsOnCart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests_suite/TestsOnContactUs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests_suite/TestsOnRegister_Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests_suite/TestsOnSearchBar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_methods.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_suites.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/LoginToAutomationAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/loginToAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/TestsOnLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/TestsOnRegister_Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/TestsOnLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,7 +92,95 @@
     <favorites_list name="ProjjStagiu" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests_methods/TestsOnRegister_Login.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="25" column="53" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/TestsOnRegister_Login.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="25" column="53" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/TestsOnCart.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/signUp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1258">
+              <caret line="80" column="104" selection-start-line="80" selection-start-column="104" selection-end-line="80" selection-end-column="104" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/methods_suite_testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testng_methods.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests_methods/TestsOnAccount_Functionalities.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="57" column="16" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testng_classes.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/buyProcess.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1207">
+              <caret line="79" column="29" selection-start-line="79" selection-start-column="29" selection-end-line="79" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,7 +198,42 @@
         <option value="$PROJECT_DIR$/src/test/java/pages/LoginToAutomationAccount.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/TestsOnLogin.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/buyProcessEmag.java" />
+        <option value="$PROJECT_DIR$/src/test/java/emag_pages/buyProcessEmag.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/TestsOnBuyProcessEmag.java" />
+        <option value="$PROJECT_DIR$/src/test/java/phptravels_pages/homePageBooking.java" />
+        <option value="$PROJECT_DIR$/src/test/java/phptravels_tests/tests_On_Booking.java" />
+        <option value="$PROJECT_DIR$/src/test/java/phptravels_tests/test_On_littleFunctionalities.java" />
+        <option value="$PROJECT_DIR$/src/test/java/phptravels_pages/homePageLanguageCurrency.java" />
+        <option value="$PROJECT_DIR$/src/test/java/phptravels_pages/signUpPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/TestOnSignUpLogin.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/TestsOnSignup.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/viewOrderAccount.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/TestOnCheckout.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/TestsOnContactUs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/TestsOnSearchBar.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/buyProcess.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/TestsOnAccount_Functionalities.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/TestsOnCart.java" />
+        <option value="$PROJECT_DIR$/testng2.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/tests_methods/TestOnCheckout.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests_methods/TestsOnContactUs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests_methods/TestsOnSearchBar.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests_suite/TestOnCheckout.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests_suite/TestsOnCart.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests_suite/TestsOnContactUs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests_suite/TestsOnRegister_Login.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests_suite/TestsOnSearchBar.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests_suite/TestsOnAccount_Functionalities.java" />
+        <option value="$PROJECT_DIR$/testng_suites.xml" />
+        <option value="$PROJECT_DIR$/methods_suite_testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/tests_methods/TestsOnAccount_Functionalities.java" />
+        <option value="$PROJECT_DIR$/testng_methods.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/tests_methods/TestsOnCart.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests_methods/TestsOnRegister_Login.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/signUp.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/TestsOnRegister_Login.java" />
       </list>
     </option>
   </component>
@@ -51,10 +245,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="170" />
-    <option name="y" value="92" />
-    <option name="width" value="1026" />
-    <option name="height" value="554" />
+    <option name="x" value="675" />
+    <option name="y" value="-8" />
+    <option name="width" value="699" />
+    <option name="height" value="754" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -105,7 +299,11 @@
             </path>
             <path>
               <item name="ProjjStagiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="ProjjStagiu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests_methods" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -117,10 +315,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Mod3Homm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gabriel\Desktop\ProjjStagiu\src\test\java\tests_suite" />
+      <recent name="C:\Users\Gabriel\Desktop\ProjjStagiu\src\test\java\tests_methods" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -134,10 +338,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Gabriel/Desktop/ProjjStagiu/testng.xml">
-    <configuration name="C:/Users/Gabriel/Desktop/ProjjStagiu/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/Gabriel/Desktop/ProjjStagiu/testng_classes.xml">
+    <configuration name="C:/Users/Gabriel/Desktop/ProjjStagiu/methods_suite_testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ProjjStagiu" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/methods_suite_testng.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -145,16 +349,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestsOnLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/Gabriel/Desktop/ProjjStagiu/testng_classes.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjjStagiu" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_classes.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Gabriel/Desktop/ProjjStagiu/testng_methods.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjjStagiu" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_methods.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Gabriel/Desktop/ProjjStagiu/testng_suites.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjjStagiu" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_suites.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestsOnCart" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ProjjStagiu" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="tests_methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.TestsOnLogin" />
+      <option name="PACKAGE_NAME" value="tests_methods" />
+      <option name="MAIN_CLASS_NAME" value="tests_methods.TestsOnCart" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -164,8 +398,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/Gabriel/Desktop/ProjjStagiu/testng.xml" />
-        <item itemvalue="TestNG.TestsOnLogin" />
+        <item itemvalue="TestNG.C:/Users/Gabriel/Desktop/ProjjStagiu/testng_classes.xml" />
+        <item itemvalue="TestNG.C:/Users/Gabriel/Desktop/ProjjStagiu/testng_methods.xml" />
+        <item itemvalue="TestNG.TestsOnCart" />
+        <item itemvalue="TestNG.C:/Users/Gabriel/Desktop/ProjjStagiu/methods_suite_testng.xml" />
+        <item itemvalue="TestNG.C:/Users/Gabriel/Desktop/ProjjStagiu/testng_suites.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -180,38 +417,46 @@
       <option name="presentableId" value="Default" />
       <updated>1561285980644</updated>
     </task>
+    <task id="LOCAL-00001" summary="problemaTeste">
+      <created>1561406808307</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561406808307</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_Gabriel_Desktop_ProjjStagiu_testng_xml - 2019.06.23 at 14h 55m 28s.xml">
-      <configuration name="C:/Users/Gabriel/Desktop/ProjjStagiu/testng.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_Gabriel_Desktop_ProjjStagiu_testng_methods_xml - 2019.06.26 at 12h 44m 20s.xml">
+      <configuration name="C:/Users/Gabriel/Desktop/ProjjStagiu/testng_methods.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Gabriel_Desktop_ProjjStagiu_testng_xml - 2019.06.23 at 14h 55m 54s.xml">
-      <configuration name="C:/Users/Gabriel/Desktop/ProjjStagiu/testng.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_Gabriel_Desktop_ProjjStagiu_methods_suite_testng_xml - 2019.06.26 at 13h 40m 23s.xml">
+      <configuration name="C:/Users/Gabriel/Desktop/ProjjStagiu/methods_suite_testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Gabriel_Desktop_ProjjStagiu_testng_xml - 2019.06.23 at 14h 56m 54s.xml">
-      <configuration name="C:/Users/Gabriel/Desktop/ProjjStagiu/testng.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_Gabriel_Desktop_ProjjStagiu_methods_suite_testng_xml - 2019.06.26 at 13h 44m 54s.xml">
+      <configuration name="C:/Users/Gabriel/Desktop/ProjjStagiu/methods_suite_testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Gabriel_Desktop_ProjjStagiu_testng_xml - 2019.06.23 at 14h 57m 40s.xml">
-      <configuration name="C:/Users/Gabriel/Desktop/ProjjStagiu/testng.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_Gabriel_Desktop_ProjjStagiu_testng_methods_xml - 2019.06.26 at 13h 46m 20s.xml">
+      <configuration name="C:/Users/Gabriel/Desktop/ProjjStagiu/testng_methods.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Gabriel_Desktop_ProjjStagiu_testng_xml - 2019.06.23 at 15h 01m 09s.xml">
-      <configuration name="C:/Users/Gabriel/Desktop/ProjjStagiu/testng.xml" configurationId="TestNG" />
+    <history-entry file="TestsOnCart - 2019.06.26 at 13h 47m 34s.xml">
+      <configuration name="TestsOnCart" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Gabriel_Desktop_ProjjStagiu_testng_xml - 2019.06.23 at 15h 02m 45s.xml">
-      <configuration name="C:/Users/Gabriel/Desktop/ProjjStagiu/testng.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_Gabriel_Desktop_ProjjStagiu_testng_methods_xml - 2019.06.26 at 13h 48m 46s.xml">
+      <configuration name="C:/Users/Gabriel/Desktop/ProjjStagiu/testng_methods.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestsOnLogin - 2019.06.23 at 15h 02m 59s.xml">
-      <configuration name="TestsOnLogin" configurationId="TestNG" />
+    <history-entry file="C__Users_Gabriel_Desktop_ProjjStagiu_testng_methods_xml - 2019.06.26 at 13h 51m 30s.xml">
+      <configuration name="C:/Users/Gabriel/Desktop/ProjjStagiu/testng_methods.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Gabriel_Desktop_ProjjStagiu_testng_xml - 2019.06.23 at 15h 03m 04s.xml">
-      <configuration name="C:/Users/Gabriel/Desktop/ProjjStagiu/testng.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_Gabriel_Desktop_ProjjStagiu_testng_classes_xml - 2019.06.26 at 13h 55m 30s.xml">
+      <configuration name="C:/Users/Gabriel/Desktop/ProjjStagiu/testng_classes.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Gabriel_Desktop_ProjjStagiu_testng_xml - 2019.06.23 at 15h 03m 34s.xml">
-      <configuration name="C:/Users/Gabriel/Desktop/ProjjStagiu/testng.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_Gabriel_Desktop_ProjjStagiu_testng_classes_xml - 2019.06.26 at 13h 57m 23s.xml">
+      <configuration name="C:/Users/Gabriel/Desktop/ProjjStagiu/testng_classes.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Gabriel_Desktop_ProjjStagiu_testng_xml - 2019.06.23 at 15h 03m 57s.xml">
-      <configuration name="C:/Users/Gabriel/Desktop/ProjjStagiu/testng.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_Gabriel_Desktop_ProjjStagiu_testng_classes_xml - 2019.06.26 at 14h 00m 35s.xml">
+      <configuration name="C:/Users/Gabriel/Desktop/ProjjStagiu/testng_classes.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -226,23 +471,23 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19667171" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49856734" visible="true" weight="0.22087745" />
+      <window_info id="Structure" order="1" sideWeight="0.50143266" side_tool="true" weight="0.20877458" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" weight="0.38164252" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" weight="0.38325283" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993559" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.32850242" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49848714" weight="0.32850242" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" weight="0.32850242" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32850242" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49848714" weight="0.32850242" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -254,6 +499,12 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="problemaTeste" />
+    <option name="LAST_COMMIT_MESSAGE" value="problemaTeste" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11-sources.jar!/org/testng/SuiteRunnerWorker.java">
@@ -267,47 +518,271 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginToAutomationAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-378">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#556#557#0" expanded="true" />
-            <element signature="e#604#605#0" expanded="true" />
-            <element signature="e#673#674#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
-            <element signature="e#759#760#0" expanded="true" />
-            <element signature="e#965#966#0" expanded="true" />
-            <element signature="e#1015#1016#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginToAutomationAccount.java" />
+    <entry file="file://$PROJECT_DIR$/ProjjStagiu.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        <state relative-caret-position="930">
+          <caret line="57" column="27" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/TestsOnLogin.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/phptravels_pages/buyProcessEmag.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/TestsOnBuyProcessEmag.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/phptravels_tests/test_On_littleFunctionalities.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        <state relative-caret-position="136">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1552#1553#0" expanded="true" />
-            <element signature="e#1581#1582#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/phptravels_pages/homePageLanguageCurrency.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-end-line="10" />
+        <state relative-caret-position="287">
+          <caret line="48" column="59" lean-forward="true" selection-start-line="48" selection-start-column="59" selection-end-line="48" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/phptravels_tests/tests_On_Booking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+            <element signature="e#924#925#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/phptravels_pages/homePageBooking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="99" column="27" selection-start-line="99" selection-start-column="27" selection-end-line="99" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/phptravels_pages/signUpPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/TestsOnLogin.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/checkoutProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="92" column="51" selection-start-line="92" selection-start-column="51" selection-end-line="92" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/TestsOnSearchBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/TestOnCheckout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/TestsOnContactUs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/TestsOnAccount_Functionalities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages_methods.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests_methods/TestOnCheckout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests_methods/TestsOnContactUs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests_methods/TestsOnSearchBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests_suite/TestsOnContactUs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests_suite/TestsOnCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="41" column="15" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests_suite/TestsOnAccount_Functionalities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests_suite/TestOnCheckout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests_suite/TestsOnRegister_Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests_suite/TestsOnSearchBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng_suites.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="37" column="8" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/viewOrderAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="40" column="53" selection-start-line="40" selection-start-column="53" selection-end-line="40" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests_methods/TestsOnCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/loginToAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests_methods/TestsOnRegister_Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" column="53" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/TestsOnCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/signUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="80" column="104" selection-start-line="80" selection-start-column="104" selection-end-line="80" selection-end-column="104" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/methods_suite_testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng_methods.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests_methods/TestsOnAccount_Functionalities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="57" column="16" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng_classes.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/buyProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="79" column="29" selection-start-line="79" selection-start-column="29" selection-end-line="79" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/TestsOnRegister_Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="25" column="53" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
